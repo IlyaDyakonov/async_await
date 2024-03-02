@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8w4hhplyhb5ffd6f?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/async-await)
+
+
+
 ## `async/await`
 
 ### Легенда
